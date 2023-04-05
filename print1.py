@@ -1,3 +1,8 @@
 print (' ) ')
 print (' ( ')
 print (' [ _ ) ')
+print (' a ')
+print ('\a')
+print ('  a')
+print(' b b ')
+print ('c c c ')
